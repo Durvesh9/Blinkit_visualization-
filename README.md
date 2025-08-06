@@ -7,7 +7,7 @@ This repository contains a Power BI dashboard analyzing the performance of **Bli
 ## 📁 Repository Contents
 
 - `blinkit_visualization.pbix` – Power BI Dashboard file  
-- Sample data files (if included)  
+- [Blinkit Grocery Data](https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset) file from kagggle 
 - `README.md` – Project documentation  
 
 ---
