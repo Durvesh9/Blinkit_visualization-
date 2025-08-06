@@ -90,6 +90,10 @@ This interactive dashboard helps business stakeholders monitor key performance i
 **Insight:** *Supermarket Type1* leads in both revenue and customer ratings.
 
 ---
+## Screenshot
+<img width="1291" height="715" alt="image" src="https://github.com/user-attachments/assets/89eddc69-f7a6-4978-b59f-dc66c257454a" />
+
+---
 
 ## 🚀 How to Use
 
@@ -111,5 +115,7 @@ This interactive dashboard helps business stakeholders monitor key performance i
 - Does outlet size impact performance?  
 - How does establishment year affect sales?  
 - What are the average customer satisfaction levels?
-kedIn: *[Your LinkedIn Profile]*
+
+
+
 
